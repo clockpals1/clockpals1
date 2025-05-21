@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sunday!
 
-I'm a **Network Security Engineer** and **Full-Stack Developer** with a passion for building tools that are secure, scalable, and useful in the real world. Whether it's deploying firewalls, automating cloud infrastructure, or crafting beautiful applications — I bring ideas to life with precision and creativity.
+I'm a **Network Security Engineer** and a **Cloud Infrastructure Engineer** with a passion for building tools that are secure, scalable, and useful in the real world. Whether it's deploying firewalls, automating cloud infrastructure, or crafting beautiful applications — I bring ideas to life with precision and creativity.
 
 ---
 
