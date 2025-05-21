@@ -20,7 +20,7 @@ I'm a **Network Security Engineer** and **Full-Stack Developer** with a passion 
 * 📱 **Mobile App Development**
 
   * Framework: **React Native (Expo)**
-  * Backend: **Supabase**, **PostgreSQL**, **Cloudflare Storage**
+  * Backend: **Supabase**, **PostgreSQL**, **MongoDB**, **Cloudflare Storage**
   * Authentication, streaming, social features, UI/UX
 
 ---
@@ -40,10 +40,10 @@ Diploma in Computer Systems Technology, 2025
 Languages:      JavaScript, TypeScript, Python, SQL, Bash
 Mobile:         React Native (Expo), Redux, Context API
 Backend:        Supabase, PostgreSQL, Node.js
-Automation:     Terraform, Ansible, GitHub Actions
-Security:       pfSense, Fortinet, Wireshark, Nmap
-Cloud & Infra:  Proxmox, Ubuntu Server, Cloudflare, Git
-Tools:          Figma, Postman, VS Code, Wireshark
+Automation:     Terraform, Jenkins, Ansible, GitHub Actions
+Security:       pfSense, Fortinet, Wireshark, Nmap, Snort
+Cloud & Infra:  Proxmox, Ubuntu Server, Cloudflare, Git, VMWare, VM ESXi
+Tools:          Postman, VS Code, Wireshark
 ```
 
 ---
@@ -79,6 +79,7 @@ Built a home cloud lab with pfSense for network monitoring, virtual machines, an
 * 📄 [Employment Skills: Professionalism & Communication]
 * 🔍 [Networking Lab: EIGRP, DHCP, ACL Troubleshooting]
 * 🛡️ [Cybersecurity: DoS Detection, Pentest Reports]
+* 📚 [Final Project: JDClincs (Dental clinics), Coperate Infrastructure]
 
 ---
 
@@ -86,6 +87,7 @@ Built a home cloud lab with pfSense for network monitoring, virtual machines, an
 
 * 🌐 [LinkedIn](https://linkedin.com/in/sunday-oyediran)
 * 📫 Email: [sundayoyediran2@gmail.com](mailto:sundayoyediran2@gmail.com)
+* 🌐 Website: sunday.syncapply.com
 * 🧠 Fun Fact: I can debug a broken network faster than I can make up my mind at a restaurant 🍲😄
 
 ---
